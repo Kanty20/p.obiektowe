@@ -1,0 +1,3 @@
+﻿  samochod.cpp
+C:\Users\Kopeć\Desktop\POO\POO\samochod.cpp(353,36): warning C4804: ">=": niebezpieczne użycie typu "bool" w operacji
+  POO.vcxproj -> C:\Users\Kopeć\Desktop\POO\x64\Debug\POO.exe
